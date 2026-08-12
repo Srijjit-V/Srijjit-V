@@ -2,6 +2,8 @@
 
 Data Visualization + CS (minor) student at the University of Washington Bothell, graduating June 2028. I like using data and machine learning to answer specific, real questions.
 
+**[View my project board →](https://github.com/users/Srijjit-V/projects/1)**
+
 **Projects**
 
 **Free Flo Box — Product Usage Dashboard** (private repo) — Tableau analysis of menstrual product usage for a free menstrual-product access program, comparing two service locations across 2025. Single-use products (pads, tampons) dominate demand; reusable products stay under 1% of usage.
