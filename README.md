@@ -1,6 +1,6 @@
 ### Hi, I'm Srijjit
 
-Data Visualization + CS (minor) student at the University of Washington Bothell, graduating June 2028. I like using data and machine learning to answer specific, real questions.
+Informatics + Data Analytics (minor) student at the University of Washington, graduating June 2028. I like using data and machine learning to answer specific, real questions.
 
 **[View my project board →](https://github.com/users/Srijjit-V/projects/1)**
 
