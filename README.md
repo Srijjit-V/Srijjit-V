@@ -6,6 +6,8 @@ Informatics + Data Analytics (minor) student at the University of Washington, gr
 
 **Projects**
 
+**[video-to-3d](https://github.com/Srijjit-V/video-to-3d)** (in progress) — turns a phone walkthrough video of a room into a measurable 3D model, room size and floor plan, using COLMAP and AI depth estimation, with a browser viewer for measuring. Measures a synthetic test room to within 6%.
+
 **Free Flo Box — Product Usage Dashboard** (private repo) — Tableau analysis of menstrual product usage for a free menstrual-product access program, comparing two service locations across 2025. Single-use products (pads, tampons) dominate demand; reusable products stay under 1% of usage.
 
 **Heart Disease Risk Factors** (private repo) — analysis identifying which lifestyle factors are most associated with heart disease, using two clinical datasets covering 303 and ~70,000 patients.
